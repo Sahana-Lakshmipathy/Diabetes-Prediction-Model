@@ -2,6 +2,16 @@
 
 This project aims to improve the accuracy of diabetes prediction by leveraging ensemble machine learning models. Initial experiments were conducted using local machine learning methods, and further optimization was achieved using Azure AutoML. The best performing model was a voting ensemble model.
 
+# Core Azure Services Used
+* Container Registry 
+* Container Instances
+* Storage Account
+* Key Vault
+
+# Azure AI Services Used
+
+* Azure Machine Learning - (AutoML WorkFlows)
+
 # Project Workflow
 
 ## 1. Data Acquisition & Preprocessing:
